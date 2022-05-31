@@ -80,7 +80,7 @@ module.exports = [{
     },
     {
         "type": "text",
-        "defaultValue": "Changes will apply on next screen redraw."
+        "defaultValue": "Changes might take a moment to apply."
     },
     {
         "type": "submit",
