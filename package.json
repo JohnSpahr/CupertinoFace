@@ -1,0 +1,32 @@
+{
+    "name": "cupertino",
+    "author": "John Spahr",
+    "version": "1.0.0",
+    "keywords": ["pebble-app"],
+    "private": true,
+    "dependencies": {},
+    "pebble": {
+        "main": {
+            "rockyjs": "src/rocky/index.js",
+            "pkjs": "src/pkjs/index.js"
+        },
+        "displayName": "Cupertino",
+        "uuid": "dab37791-dab7-dab1-8d2f-e73f52743dab",
+        "projectType": "rocky",
+        "sdkVersion": "3",
+        "enableMultiJS": true,
+        "watchapp": {
+            "watchface": true
+        },
+        "resources": {
+            "media": []
+        },
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "capabilities": [
+            "configurable"
+        ]
+    }
+}
