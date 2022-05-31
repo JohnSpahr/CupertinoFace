@@ -2,8 +2,8 @@
 A simple and elegant analog face for Pebble watches with lots of customization options. Built with RockyJS.
 
 ## Screenshots
-![Round](images/round.png)
-![Rectangular](images/rectangular.png)
+![Round](screenshots/round.png)
+![Rectangular](screenshots/rectangular.png)
 
 ## Supported Models
 - Pebble Time
