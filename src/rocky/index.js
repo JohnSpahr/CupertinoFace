@@ -145,7 +145,7 @@ rocky.on('draw', function(event) {
     drawHand(ctx, centerX, centerY, hourAngle, maxLength * 0.6, hourColor)
 })
 
-rocky.on('secondchange', function(event) {
+rocky.on('minutechange', function(event) {
     // Request the screen to be redrawn on next pass
     rocky.requestDraw()
 })
