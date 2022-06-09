@@ -153,6 +153,8 @@ rocky.on('minutechange', function(event) {
 rocky.on('message', function(event) {
     //update settings when received
     settings = event.data
+    // Redraw to reflect any new settings
+    rocky.requestDraw()
 })
 
 rocky.postMessage({ command: 'settings' })
