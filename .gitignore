@@ -1,3 +1,5 @@
 
 screenshots/.DS_Store
 .DS_Store
+build/
+.lock-waf_darwin_build
