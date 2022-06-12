@@ -4,8 +4,10 @@ A simple and elegant analog face for Pebble watches with lots of customization o
 ## Screenshots
 ![Round](screenshots/round.png)
 ![Rectangular](screenshots/rectangular.png)
+![P2](screenshots/pebble2.png)
 
 ## Supported Models
 - Pebble Time
 - Pebble Time Steel
 - Pebble Time Round
+- Pebble 2 (v1.2+)
