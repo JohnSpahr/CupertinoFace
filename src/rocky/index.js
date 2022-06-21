@@ -39,7 +39,7 @@ rocky.on('draw', function(event) {
     var foregroundColor = 'white'
     var orbColor = 'white'
     var minuteColor = 'white'
-    var hourColor = 'lightgray'
+    var hourColor = 'white'
     var showDate = true
     var usDate = true
     var showLogo = true

@@ -39,7 +39,7 @@ module.exports = [{
             {
                 "type": "color",
                 "messageKey": "hourColor",
-                "defaultValue": "0xAAAAAA",
+                "defaultValue": "0xFFFFFF",
                 "label": "Hour Hand"
             }
         ]
